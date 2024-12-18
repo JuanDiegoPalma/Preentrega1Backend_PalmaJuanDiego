@@ -1,0 +1,77 @@
+[
+     {
+          "id": 1,
+          "title": "BMX Sunday 20.75tt",
+          "decription": "sagdvcgahs",
+          "code": "",
+          "price": 700,
+          "status": true,
+          "stock": 7,
+          "category": "",
+          "thumbnails": []
+     },
+     {
+          "id": 2,
+          "title": "BMX KINK 21 tt",
+          "decription": "sagdvcgahs",
+          "code": "",
+          "price": 500,
+          "status": true,
+          "stock": 5,
+          "category": "",
+          "thumbnails": []
+     },
+     {
+          "id": 3,
+          "title": "Manubrio BSD",
+          "decription": "sagdvcgahs",
+          "code": "",
+          "price": 50,
+          "status": true,
+          "stock": 10,
+          "category": "",
+          "thumbnails": []
+     },
+     {
+          "id": 4,
+          "title": "Horquilla Odyssey R25",
+          "decription": "sagdvcgahs",
+          "code": "",
+          "price": 160,
+          "status": true,
+          "stock": 13,
+          "category": "",
+          "thumbnails": []
+     },
+     {
+          "id": 5,
+          "title": "Grips Federal",
+          "decription": "sagdvcgahs",
+          "code": "",
+          "price": 20,
+          "status": true,
+          "stock": 20,
+          "category": "",
+          "thumbnails": []
+     },
+     {
+          "id": 6,
+          "title": "Horquilla KINK Help Williams",
+          "description": "sadfda",
+          "code": "",
+          "price": 150,
+          "status": true,
+          "stock": 2,
+          "category": "BMX Parts"
+     },
+     {
+          "id": 7,
+          "title": "Odyssey Cluth v2",
+          "description": "",
+          "code": "HTYRP",
+          "price": 110,
+          "status": true,
+          "stock": 6,
+          "category": "BMX Parts"
+     }
+]
